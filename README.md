@@ -1,13 +1,15 @@
 ### Saravana Krishnan Magarajan :alien:
 ### University of Illinois at Chicago :snowflake:- Graduate Student in Computer Science :computer:
-### Core Programming :rocket:: Java, C, C++, Python, Ruby, Scala, C#
-### Web Technologies :art:: HTML, CSS, JavaScript, PHP, SQLite, jQuery, PostgreSQL, WordPress, Bootstrap, NoSQL, Flask, Firestore, AWS
-### Tools and Libraries :hammer:: MySQL Workbench, Android Studio, Git (Version Control), IntelliJ IDEA, CLion, Docker, Kubernetes, Spark, Arduino
+
+Core Programming :rocket:: Java, C, C++, Python, Ruby, Scala, C#
+Web Technologies :art:: HTML, CSS, JavaScript, PHP, SQLite, jQuery, PostgreSQL, WordPress, Bootstrap, NoSQL, Flask, Firestore, AWS
+Tools and Libraries :hammer:: MySQL Workbench, Android Studio, Git (Version Control), IntelliJ IDEA, CLion, Docker, Kubernetes, Spark, Arduino
+
 ### SUMMARY
-### - Expertise in Java, HTML/CSS, JavaScript, MySQL and developed various web and mobile applications.
-### - Solid knowledge in OOP principles, SQL, and query optimization techniques.
-### - Experience in building REST APIs in support of front-end systems.
-### - Working with product owners, UX, and other business to understand the requirements.
+ - Expertise in Java, HTML/CSS, JavaScript, MySQL and developed various web and mobile applications.
+ - Solid knowledge in OOP principles, SQL, and query optimization techniques.
+ - Experience in building REST APIs in support of front-end systems.
+ - Working with product owners, UX, and other business to understand the requirements.
 <!--
 **skmagarajan/skmagarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
