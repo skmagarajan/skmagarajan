@@ -1,9 +1,9 @@
 ### Saravana Krishnan Magarajan :alien:
 ### University of Illinois at Chicago :snowflake:- Graduate Student in Computer Science :computer:
 
-Core Programming :rocket:: Java, C, C++, Python, Ruby, Scala, C#
-Web Technologies :art:: HTML, CSS, JavaScript, PHP, SQLite, jQuery, PostgreSQL, WordPress, Bootstrap, NoSQL, Flask, Firestore, AWS
-Tools and Libraries :hammer:: MySQL Workbench, Android Studio, Git (Version Control), IntelliJ IDEA, CLion, Docker, Kubernetes, Spark, Arduino
+Core Programming :rocket:: Java, C, C++, Python, Ruby, Scala, C# <br />
+Web Technologies :art:: HTML, CSS, JavaScript, PHP, SQLite, jQuery, PostgreSQL, WordPress, Bootstrap, NoSQL, Flask, Firestore, AWS <br />
+Tools and Libraries :hammer:: MySQL Workbench, Android Studio, Git (Version Control), IntelliJ IDEA, CLion, Docker, Kubernetes, Spark, Arduino <br />
 
 ### SUMMARY
  - Expertise in Java, HTML/CSS, JavaScript, MySQL and developed various web and mobile applications.
