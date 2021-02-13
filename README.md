@@ -1,4 +1,4 @@
-### Saravana Krishnan Magarajan :alien:
+### Saravana Krishnan Magarajan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### University of Illinois at Chicago :snowflake:- Graduate Student in Computer Science :computer:
 
 Core Programming :rocket:: Java, C, C++, Python, Ruby, Scala, C# <br />
